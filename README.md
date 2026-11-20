@@ -1,4 +1,4 @@
-# Final-Project
+# Students' Results Generator
 #### Video Demo:  <https://youtu.be/2lByKLG0Ai0>
 #### Description: **Students Results Generator** is a command-line Python program that turns a list of student names and marks into an organized results report. It is designed to make a small classroom task easier to follow: enter each student’s information, check that the mark is valid, calculate the percentage, determine the result, and save the finished information in a file. The program also prints a neatly formatted table so the results can be reviewed immediately.
 
